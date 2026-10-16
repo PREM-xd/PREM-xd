@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Sharma</h1>
 
 <p align="center">
-  Computer Science & Engineering Student | Full-Stack Developer | AI/ML Enthusiast
-</p>
-
-<p align="center">
   I enjoy solving problems, learning new things, and applying what I learn through practical projects.
 </p>
 
@@ -28,12 +24,6 @@
 ## 👨‍💻 About Me
 
 Hi, I am Prem Sharma. I enjoy solving problems, learning new things, and applying what I learn through practical projects.
-
-- 🎓 Computer Science & Engineering student at Bennett University.
-- 💻 Interested in Full-Stack Development and AI/ML.
-- 🧠 Practicing Data Structures and Algorithms using C++.
-- 🚀 Building practical applications using modern technologies.
-- 🌱 Continuously learning and improving my software development skills.
 
 ---
 
