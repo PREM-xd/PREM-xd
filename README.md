@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Sharma</h1>
 
-<h3 align="center">
-  Computer Science Student | Full-Stack Developer | AI/ML Enthusiast
-</h3>
-
 <p align="center">
-  Building practical applications, exploring AI, and solving problems through code.
+  I enjoy solving problems, learning new things, and applying what I learn through practical projects.
 </p>
 
 <p align="center">
@@ -16,71 +12,48 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Computer Science & Engineering student at Bennett University.
-- 💻 Interested in Full-Stack Development, AI/ML, and Software Engineering.
-- 🚀 Building projects that solve real-world problems.
-- 🧠 Practicing Data Structures and Algorithms using C++.
-- 🌱 Currently exploring FastAPI, Machine Learning pipelines, Docker, Redis, and PostgreSQL.
-- 🎯 Focused on improving my problem-solving skills and building production-oriented applications.
-- 🤝 Open to collaborating on interesting projects and learning from other developers.
-
----
-
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="Programming Languages" />
-</p>
+**Languages:**  
+C++, Python, JavaScript, TypeScript
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies" />
-</p>
+**Frontend:**  
+HTML, CSS, React.js
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies" />
-</p>
+**Backend & APIs:**  
+Node.js, Express.js, FastAPI, Pydantic, REST APIs, JWT, WebSockets
 
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,docker,git,github,vscode,postman" alt="Databases and Developer Tools" />
-</p>
+**Databases & Messaging:**  
+MongoDB, PostgreSQL, Redis, RabbitMQ
+
+**AI/ML:**  
+Scikit-learn, Pandas, NumPy, ML Pipelines, LangChain, LangGraph
+
+**DevOps & Tools:**  
+Docker, AWS, Git, GitHub, VS Code, Postman, Jira
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🤖 FresherAI — AI Interview Platform
-A platform designed to help candidates practice interviews and analyze their resumes using AI.
+### 🤖 AI Interview Platform
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB, Redis, LangChain, LangGraph, Firebase
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redis, LangChain, LangGraph, Docker, Firebase
 
-- AI-powered interview practice.
-- Resume analysis using LLMs.
-- Microservices-based backend architecture.
+- Built an AI-powered interview platform using React.js and Node.js, with three core microservices for authentication, resume analysis, and interview workflows.
+- Designed an API Gateway to route requests across three independent backend services, centralizing communication between the frontend and microservices.
+- Orchestrated LLM interactions using LangChain and LangGraph, maintaining interview workflow state and dynamically progressing between interview steps.
+- Leveraged Redis for session management and caching frequently accessed application data, reducing repeated database operations.
+- Containerized backend services with Docker and integrated Firebase Authentication for secure user identity verification.
 
-### 🧠 Mental Health Score Prediction
-A machine learning project that predicts mental health scores using lifestyle, study, sleep, and social media-related features.
+### 🧠 Student Mental Health Score Predictor
 
-**Tech Stack:** Python, Pandas, Scikit-learn, FastAPI, Pydantic
+**Tech Stack:** Python, Scikit-learn, Pandas, FastAPI, Pydantic, Joblib
 
-- Built preprocessing and machine learning pipelines.
-- Compared Linear Regression and Random Forest models.
-- Evaluated models using R² and Mean Absolute Error.
-
-### 🌉 AIBridge
-An AI-powered browser extension built to explore AI integration into everyday browsing workflows.
-
-**Tech Stack:** React, TypeScript, Chrome Extension APIs
-
-### 🏋️ IronHouse
-A full-stack gym management platform designed to simplify gym-related management workflows.
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+- Developed a machine learning regression pipeline using 5,000 student records and 12 behavioral and lifestyle features to predict Mental Health Scores.
+- Engineered preprocessing and feature transformations using Scikit-learn's `Pipeline` and `ColumnTransformer`, with a 70/30 train-test split.
+- Compared Linear Regression and Random Forest models, improving R² from 0.740 to 0.878 and reducing MAE from 0.536 to 0.347.
+- Deployed the trained model as a FastAPI REST API with Pydantic input validation and Joblib model serialization.
 
 ---
 
@@ -89,50 +62,29 @@ A full-stack gym management platform designed to simplify gym-related management
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Statistics"
+    height="165"
+    alt="GitHub Stats"
   />
-</p>
-
-<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
+    height="165"
+    alt="Top Languages"
   />
 </p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 🏆 Achievements & Certifications
-
-- ⭐ CodeChef 2-Star Programmer.
-- 📜 NPTEL — Developing Soft Skills and Personality.
-- 💻 HackerRank — Problem Solving (Basic).
-- 💻 HackerRank — Problem Solving (Intermediate).
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
-📧 Email: YOUR_EMAIL
-
----
-
 <p align="center">
-  <i>"Consistency turns code into skills and ideas into products."</i>
+  <i>Always learning. Always building. Always improving.</i>
 </p>
