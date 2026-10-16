@@ -83,7 +83,7 @@ I enjoy solving problems, learning new things, and applying what I learn through
 - Leveraged Redis for session management and caching frequently accessed application data, reducing repeated database operations.
 - Containerized backend services with Docker and integrated Firebase Authentication for secure user identity verification.
 
-**Repository:** [View Project](https://github.com/PREM-xd)
+**Repository:** [View Project]([https://github.com/PREM-xd/AI-Interview](https://github.com/PREM-xd/AI-Interview))
 
 ### 🧠 Student Mental Health Score Predictor
 
@@ -94,7 +94,7 @@ I enjoy solving problems, learning new things, and applying what I learn through
 - Compared Linear Regression and Random Forest models, improving R² from 0.740 to 0.878 and reducing MAE from 0.536 to 0.347.
 - Deployed the trained model as a FastAPI REST API with Pydantic input validation and Joblib model serialization.
 
-**Repository:** [View Project](https://github.com/PREM-xd)
+**Repository:** [View Project]([https://github.com/PREM-xd/Mental-Health-Score-Predictor](https://github.com/PREM-xd/Mental-Health-Score-Predictor))
 
 ---
 
