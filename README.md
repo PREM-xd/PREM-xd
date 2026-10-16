@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I am Prem Sharma. I enjoy solving problems, learning new things, and applying what I learn through practical projects.
+I enjoy solving problems, learning new things, and applying what I learn through practical projects.
 
 ---
 
