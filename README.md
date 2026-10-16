@@ -18,8 +18,8 @@
   <a href="https://leetcode.com/u/PREMxd_/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/premxd">
-    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="GFG"/>
+  <a href="https://www.geeksforgeeks.org/profile/premxd?tab=activity">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
