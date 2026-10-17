@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prem Sharma</h1>
 
 <p align="center">
-  I enjoy solving problems, learning new things, and applying what I learn through practical projects.
-</p>
-
-<p align="center">
   <a href="https://github.com/PREM-xd">
     <img src="https://img.shields.io/badge/GitHub-PREM--xd-181717?style=flat&logo=github" alt="GitHub"/>
   </a>
