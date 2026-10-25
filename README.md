@@ -16,15 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning%2C+Always+Building" alt="Animated typing text"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines= Solving Problems;Learning new things;Applying what I learn through practical projects" alt="Animated typing text"/>
 </p>
 
-
-## 👨‍💻 About Me
-
-I enjoy solving problems, learning new things, and applying what I learn through practical projects.
-
----
 
 ## 🛠️ Tech Stack
 
