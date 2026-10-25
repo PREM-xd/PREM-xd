@@ -70,20 +70,20 @@
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redis, LangChain, LangGraph, Docker, Firebase
 
-- Built an AI-powered interview platform using React.js and Node.js, organized around three core microservices: authentication, resume analysis, and interview workflows.
-- Designed an API Gateway to route requests across three independent backend services, centralizing communication between the frontend and microservices.
-- Orchestrated LLM interactions using LangChain and LangGraph, maintaining interview workflow state and dynamically progressing between interview steps.
-- Leveraged Redis for session management and caching frequently accessed application data, reducing repeated database operations.
-- Containerized backend services with Docker and integrated Firebase Authentication for secure user identity verification.
+-Built an AI-powered interview platform with React.js and Node.js using 3 core microservices for authentication, resume analysis, and interview workflows.
+-Designed an API Gateway to route requests across 3 independent backend services, centralizing communication between the frontend and microservices.
+-Orchestrated LLM interactions with LangChain and LangGraph while maintaining interview workflow state and dynamically progressing between interview steps.
+-Leveraged Redis for session management and caching frequently accessed application data, reducing repeated database operations.
+-Containerized backend services with Docker and integrated Firebase Authentication for secure user identity verification.
 
 ### 🧠 Student Mental Health Score Predictor
 
 **Tech Stack:** Python, Scikit-learn, Pandas, FastAPI, Pydantic, Joblib
 
-- Developed a machine learning regression pipeline using 5,000 student records and 12 behavioral and lifestyle features to predict Mental Health Scores.
-- Engineered preprocessing and feature transformations using Scikit-learn's `Pipeline` and `ColumnTransformer`, with a 70/30 train-test split.
-- Compared Linear Regression and Random Forest models, improving R² from 0.740 to 0.878 and reducing MAE from 0.536 to 0.347.
-- Deployed the trained model as a FastAPI REST API with Pydantic input validation and Joblib model serialization.
+-Developed a machine learning regression pipeline on 5,000 student records using 12 behavioral and lifestyle features to predict Mental Health Score.
+-Engineered preprocessing and feature transformation using Scikit-learn Pipeline and ColumnTransformer with a 70/30 train-test split.
+-Compared Linear Regression and Random Forest, improving R² from 0.740 to 0.878 and reducing MAE from 0.536 to 0.347.
+-Deployed the trained model as a FastAPI REST API with Pydantic input validation and Joblib model serialization.
 
 ---
 
