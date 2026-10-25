@@ -1,4 +1,4 @@
-![Prem Sharma — Animated Developer Banner](./profile-banner-animated.gif)
+![Prem Sharma — Animated Developer Banner](./profile-banner-animated (3).gif)
 
 <p align="center">
   <a href="https://github.com/PREM-xd">
