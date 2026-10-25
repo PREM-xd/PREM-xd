@@ -1,4 +1,4 @@
-![Prem Sharma — Developer Banner](./ChatGPT%20Image%2025%20Oct%202026%2C%2021_46_19.jpg)
+![Prem Sharma — Animated Developer Banner](./profile-banner-animated.gif)
 
 <p align="center">
   <a href="https://github.com/PREM-xd">
