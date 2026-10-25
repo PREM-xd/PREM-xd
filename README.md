@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning%2C+Always+Building" alt="Animated typing text"/>
 </p>
----
+
 
 ## 👨‍💻 About Me
 
