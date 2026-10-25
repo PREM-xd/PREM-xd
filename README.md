@@ -16,7 +16,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Solving+Problems;Learning+New+Things;Applying+What+I+Learn+Through+Practical+Projects" alt="Animated typing text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=Solving+Problems;Learning+New+Things;Learning+by+Building" alt="Animated typing text"/>
 </p>
 
 
